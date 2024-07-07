@@ -1,4 +1,4 @@
-#-  Hi, I’m @gauraVwrites
+# -  Hi, I’m @gauraVwrites
 -  I’m interested in Data things
 -  I’m currently learning Analytics and planning to transit into a full tech role in data
 -  I’m looking to collaborate on data science projects
