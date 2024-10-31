@@ -5,8 +5,6 @@
 -  My linkedIn is https://www.linkedin.com/in/udyanshu-rawat-7882b125a/
 -  My leetcode profile https://leetcode.com/u/g4uravwrites/
 -  My HackerRank Profile https://www.hackerrank.com/profile/rawatgaurav807
--  Pronouns: 🤔
--  Fun fact: Doing a BBA counts?
 
 <!---
 gauraVwrites/gauraVwrites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
