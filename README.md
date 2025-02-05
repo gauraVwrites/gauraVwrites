@@ -1,7 +1,7 @@
 # -  Hi, I’m Udyanshu(Garurav) Rawat
 -  I’m interested in Data things
 -  I’m currently learning Analytics and planning to transit into a full tech role in data
--  Currently working on an ETL project
+-  Currently working on an ETL project using some free cloud and github actions
 -  I’m looking to collaborate on data science projects
 -  My linkedIn is https://www.linkedin.com/in/udyanshu-rawat-7882b125a/
 -  My leetcode profile https://leetcode.com/u/g4uravwrites/
