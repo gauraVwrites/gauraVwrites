@@ -1,4 +1,4 @@
-# -  Hi, I’m Udyanshu(Garurav) Rawat
+# -  Hi, I’m Udyanshu(Gaurav) Rawat
 -  I’m interested in Data things
 -  I’m currently learning Analytics and planning to transit into a full tech role in data
 -  Currently working on an ETL project using some free cloud and github actions
